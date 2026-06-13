@@ -1,3 +1,5 @@
+Showcase: https://youtu.be/o1c80boenmg
+
 Drug Selling System (QBCore + ox_inventory + ox_lib)
 A fully dynamic, admin‑controlled street‑dealing system for FiveM servers.
 Supports per‑drug pricing, random ranges, min/max amounts, and custom decline chances — all editable in‑game.
